@@ -16,16 +16,13 @@ I am a software engineer focusing on Machine Learning, Computer Vision and Compu
 
 **🐱 My GitHub Data** 
 
-> 🏆 40 Contributions in the Year 2026
- > 
 > 📦 239.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 69 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
+> 📜 7 Public Repositories 
+ >
+> 
 **I'm an Early 🐤** 
 
 ```
