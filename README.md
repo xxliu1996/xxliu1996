@@ -21,34 +21,8 @@ I am a software engineer focusing on Machine Learning, Computer Vision and Compu
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 10 Public Repositories 
  >
 > 
-**I'm an Early 🐤** 
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       17 commits     ██████░░░░░░░░░░░░░░░░░░░   26.98% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
-Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Thursday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-Friday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
-Saturday     16 commits     ██████░░░░░░░░░░░░░░░░░░░   25.4% 
-Sunday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ████████████░░░░░░░░░░░░░   50.0% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
 
  Last Updated on 16/09/2026
