@@ -5,12 +5,12 @@ I am a software engineer focusing on Machine Learning, Computer Vision and Compu
 
 ## About Me
 
-- :computer: I'm a backend software engineer, currently exploring computer graphics
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :computer: I'm a Backend Software Engineer, currently exploring Computer Graphics
+- :hourglass_flowing_sand: Exploring Agent Development and AI Infra
+- :rocket: Always ready to collaborate to make the world better
+- :man_technologist: Got a Ph.D. in Electrical and Computer Engineering
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: Fun fact: I love to explore new fields of Science and Technology<br>
 
 ## Tools
 
