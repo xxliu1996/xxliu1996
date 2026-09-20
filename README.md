@@ -1,6 +1,6 @@
 # Hi, I'm Xingxing Liu
 
-I am a software engineer focusing on Machine Learning, Computer Vision and Computer Graphics.
+I am a software engineer focusing on Machine Learning, Computer Vision and Computer Graphics<img src="images/coding-cat.gif" alt="Coding Cat" width="30">.
 <img src="images/coding.gif" alt="Coder GIF" width="500">
 
 ## About Me
